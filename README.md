@@ -16,6 +16,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * disponible para todas las edades
 * que gonorrea estos cambios mk
 * coajn cambios malditos infelices
+* vamos a ver sie s aspi
 
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
