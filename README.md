@@ -17,6 +17,10 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * otro commit espereamos que sea el ultimo d eesta prueba
 * disponible para todas las edades
 * que gonorrea estos cambios mk
+<<<<<<< HEAD
+=======
+* coajn cambios malditos infelices
+>>>>>>> 58e1f9e... esta vez
 
 >>>>>>> b38dbf1... como es la vuelta
 
