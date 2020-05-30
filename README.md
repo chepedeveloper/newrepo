@@ -15,6 +15,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * otro commit espereamos que sea el ultimo d eesta prueba
 * disponible para todas las edades
 * que gonorrea estos cambios mk
+* así debe ser
 
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
