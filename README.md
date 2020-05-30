@@ -20,7 +20,11 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 <<<<<<< HEAD
 =======
 * coajn cambios malditos infelices
+<<<<<<< HEAD
 >>>>>>> 58e1f9e... esta vez
+=======
+* vamos a ver sie s aspi
+>>>>>>> 7a7cef4... aja aj aja
 
 >>>>>>> b38dbf1... como es la vuelta
 
