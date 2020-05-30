@@ -10,5 +10,14 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por José Luis García
+<<<<<<< HEAD
+=======
+* Mi familia es la mejor de las mejores
+* Un nuevo commit con este texto
+* otro commit espereamos que sea el ultimo d eesta prueba
+* disponible para todas las edades
+* que gonorrea estos cambios mk
+
+>>>>>>> b38dbf1... como es la vuelta
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
