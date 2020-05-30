@@ -11,12 +11,16 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Las personalidades múltiples de Freddy
 * Creado por José Luis García
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> readme-mejorado
 * Mi familia es la mejor de las mejores
 * Un nuevo commit con este texto
 * otro commit espereamos que sea el ultimo d eesta prueba
 * disponible para todas las edades
 * que gonorrea estos cambios mk
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 * coajn cambios malditos infelices
@@ -31,5 +35,11 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 >>>>>>> 20c79f3... tran
 
 >>>>>>> b38dbf1... como es la vuelta
+=======
+* coajn cambios malditos infelices
+* vamos a ver sie s aspi
+* haber gonorreas hptas
+
+>>>>>>> readme-mejorado
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
